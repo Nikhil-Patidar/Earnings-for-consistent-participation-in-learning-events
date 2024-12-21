@@ -8,6 +8,8 @@ This contract ensures transparency and fairness in the distribution of rewards, 
 
 ## Contract Address
 0xB01a265410e1c1F6A6C4d3978c2A26E8c6766d57
+![image](https://github.com/user-attachments/assets/08f290a2-742a-4353-9cf7-8c7132fda502)
+
 
 ## Project Vision
 The vision for "Earnings For Participation" is to provide a simple, transparent, and decentralized way for participants to earn rewards for their engagement. Whether for virtual events, community-driven projects, or incentive-based activities, this contract allows event organizers to easily distribute rewards and track participation. This model can be applied across various industries to motivate engagement and foster community involvement.
